@@ -1,4 +1,7 @@
-### Hi there, I'm Shuveksha 👋
+### 👋 Hi there! 
+- I'm Shuveksha, a passionate software engineer based in Las Vegas, NV 🌍. 
+- 🌟 I'm on a mission to explore the endless possibilities of technology and contribute to the ever-evolving world of coding.
+- 🌱 I believe in the power of collaboration and open-source development. You'll often find me exploring GitHub repositories, learning from the community, and contributing to exciting projects. Let's connect, collaborate, and create something amazing together! 💡
 
 ### Connect with me!
 <a href="https://www.linkedin.com/in/shuvekshatuladhar/" target="_blank" >
