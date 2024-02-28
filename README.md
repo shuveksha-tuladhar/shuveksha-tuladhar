@@ -69,9 +69,10 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
 ## Projects 
-- [Smart Bank](https://github.com/shuveksha-tuladhar/full-stack-banking-application)
-- [HomeEats](https://github.com/shuveksha-tuladhar/home-eats)
 - [Project Planner](https://github.com/shuveksha-tuladhar/todo-list) : In Progress
+- [HomeEats](https://github.com/shuveksha-tuladhar/home-eats)
+- [Smart Bank](https://github.com/shuveksha-tuladhar/full-stack-banking-application)
+
 
 
 
