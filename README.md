@@ -13,6 +13,11 @@
   <img align="left" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://shuveksha-tuladhar.github.io/" target="_blank" >
+  <img align="left" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+
+
 <br>
 <br>
 
