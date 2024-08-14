@@ -1,5 +1,5 @@
 ## Hi there! 
-- 👋 I'm Shuveksha, a passionate software engineer based in Las Vegas, NV 🌍. 
+- 👋 I'm Shuveksha, a passionate software engineer based in Las Vegas, NV 🌍 and currently seeking new opportunities for a front-end or full-stack developer roles. 
 - 🌟 I'm on a mission to explore the endless possibilities of technology and contribute to the ever-evolving world of coding.
 - 🌱 I'm skilled at turning ideas into reality by designing scalable architectures, implementing robust algorithms, and building sleek web applications.
 - 📫 Let's connect, collaborate, and create something amazing together! 💡
