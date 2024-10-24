@@ -73,9 +73,11 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
 ## Projects 
-- [Project Planner](https://github.com/shuveksha-tuladhar/todo-list) : In Progress
+- [CollabShop](https://github.com/shuveksha-tuladhar/tcl-74-smart-shopping-list)
+- [Brewology](https://github.com/shuveksha-tuladhar/brewology)
 - [HomeEats](https://github.com/shuveksha-tuladhar/home-eats)
 - [Smart Bank](https://github.com/shuveksha-tuladhar/full-stack-banking-application)
+- [Project Planner](https://github.com/shuveksha-tuladhar/project-planner) : In Progress
 
 
 
