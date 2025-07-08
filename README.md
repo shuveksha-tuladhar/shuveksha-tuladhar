@@ -80,6 +80,7 @@
 - [CollabShop](https://github.com/shuveksha-tuladhar/tcl-74-smart-shopping-list)
 - [Brewology](https://github.com/shuveksha-tuladhar/brewology)
 - [HomeEats](https://github.com/shuveksha-tuladhar/home-eats)
+- [Vista Rentals](https://github.com/shuveksha-tuladhar/vista-rentals))
 - [Smart Bank](https://github.com/shuveksha-tuladhar/full-stack-banking-application)
 - [Project Planner](https://github.com/shuveksha-tuladhar/project-planner) : In Progress
 
