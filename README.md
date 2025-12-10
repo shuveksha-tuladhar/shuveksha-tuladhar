@@ -76,14 +76,16 @@
 ![Firebase](	https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
-## Projects 
-- [CollabShop](https://github.com/shuveksha-tuladhar/tcl-74-smart-shopping-list)
-- [Brewology](https://github.com/shuveksha-tuladhar/brewology)
+## Personal Solo Projects 
 - [HomeEats](https://github.com/shuveksha-tuladhar/home-eats)
-- [Vista Rentals](https://github.com/shuveksha-tuladhar/vista-rentals)
+- [Vista Rentals](https://github.com/shuveksha-tuladhar/vista-rentals-api)
+- [Project Planner](https://github.com/shuveksha-tuladhar/project-planner)
 - [Smart Bank](https://github.com/shuveksha-tuladhar/full-stack-banking-application)
-- [Project Planner](https://github.com/shuveksha-tuladhar/project-planner) : In Progress
 
+## Group Projects 
+- [CostShare](https://github.com/DianaLiao/ctd-jellyfish-practicum)
+- [CollabShop](https://github.com/shuveksha-tuladhar/tcl-74-smart-shopping-list)
+  
 
 
 
