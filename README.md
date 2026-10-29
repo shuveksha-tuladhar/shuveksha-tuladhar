@@ -1,8 +1,10 @@
-## Hi there! 
-- 👋 I'm Shuveksha, a passionate software engineer based in Las Vegas, NV 🌍 and currently seeking new opportunities for a front-end or full-stack developer roles. 
-- 🌟 I'm on a mission to explore the endless possibilities of technology and contribute to the ever-evolving world of coding.
-- 🌱 I'm skilled at turning ideas into reality by designing scalable architectures, implementing robust algorithms, and building sleek web applications.
-- 📫 Let's connect, collaborate, and create something amazing together! 💡
+ ### Hi, I'm Shuveksha 👋
+  Full-stack software engineer, building with **React, TypeScript, Ruby on Rails, and PostgreSQL**.
+
+  - 💼 Associate Full-Stack Software Developer at [Code the Dream](https://codethedream.org/labs/), working on [Vamos](https://codethedream.org/vamos/), a platform helping nonprofits coordinate farmworker outreach
+ - 🎤 RubyConf 2026 Scholar & lightning talk speaker: [Ruby as the Glue for AI](https://www.rubyevents.org/talks/lightning-talk-ruby-as-the-glue-for-ai-planning-fun-activities-for-my-kids)
+  
+- 📫 Let's connect, collaborate, and create something amazing together!
 
 ## Connect with me!
 <a href="https://www.linkedin.com/in/shuvekshatuladhar/" target="_blank" >
@@ -79,12 +81,13 @@
 ## Personal Solo Projects 
 - [HomeEats](https://github.com/shuveksha-tuladhar/home-eats)
 - [Vista Rentals](https://github.com/shuveksha-tuladhar/vista-rentals-api)
-- [Project Planner](https://github.com/shuveksha-tuladhar/project-planner)
-- [Smart Bank](https://github.com/shuveksha-tuladhar/full-stack-banking-application)
+- [Project Planner](https:/[/github.com/shuveksha-tuladhar/project-planner)
+- [Adventure Kids Planner](https://github.com/shuveksha-tuladhar/project-for-kids)
 
 ## Group Projects 
 - [CostShare](https://github.com/DianaLiao/ctd-jellyfish-practicum)
 - [CollabShop](https://github.com/shuveksha-tuladhar/tcl-74-smart-shopping-list)
+- [TurboLoan](https://github.com/Code-the-Dream-School/k-group-practicum-team1)
   
 
 
